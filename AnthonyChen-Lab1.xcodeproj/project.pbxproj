@@ -7,20 +7,25 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6B44537E28CA8948005C0BAA /* pp,840x830-pad,1000x1000,f8f8f8.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 6B44537D28CA8948005C0BAA /* pp,840x830-pad,1000x1000,f8f8f8.jpeg */; };
 		6B95F5CF28C5419E0003FE2F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B95F5CE28C5419E0003FE2F /* AppDelegate.swift */; };
 		6B95F5D128C5419E0003FE2F /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B95F5D028C5419E0003FE2F /* SceneDelegate.swift */; };
 		6B95F5D328C5419E0003FE2F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B95F5D228C5419E0003FE2F /* ViewController.swift */; };
-		6B95F5D628C5419E0003FE2F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6B95F5D428C5419E0003FE2F /* Main.storyboard */; };
 		6B95F5D828C541A00003FE2F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6B95F5D728C541A00003FE2F /* Assets.xcassets */; };
 		6B95F5DB28C541A00003FE2F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6B95F5D928C541A00003FE2F /* LaunchScreen.storyboard */; };
 		6B95F5E328C6794C0003FE2F /* HD-wallpaper-black-stylish-background-green-neon-lines-green-light-effects-abstract-black-background.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 6B95F5E228C6794C0003FE2F /* HD-wallpaper-black-stylish-background-green-neon-lines-green-light-effects-abstract-black-background.jpeg */; };
-		6B95F5E728C67A530003FE2F /* grocery-pic-ubb.webp in Resources */ = {isa = PBXBuildFile; fileRef = 6B95F5E628C67A530003FE2F /* grocery-pic-ubb.webp */; };
 		6B95F5EB28C67B700003FE2F /* top-view-simple-bag-with-fresh-groceries-food-zero-waste-eco-shopping-concept_63762-1665.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 6B95F5EA28C67B700003FE2F /* top-view-simple-bag-with-fresh-groceries-food-zero-waste-eco-shopping-concept_63762-1665.jpeg */; };
 		6B95F5ED28C680150003FE2F /* 1079784.png in Resources */ = {isa = PBXBuildFile; fileRef = 6B95F5EC28C680150003FE2F /* 1079784.png */; };
 		6B95F5EF28C92B8E0003FE2F /* 4535983.png in Resources */ = {isa = PBXBuildFile; fileRef = 6B95F5EE28C92B8E0003FE2F /* 4535983.png */; };
+		6B95F5F328CA80390003FE2F /* IMG_1143.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 6B95F5F028CA80390003FE2F /* IMG_1143.JPG */; };
+		6B95F5F428CA80390003FE2F /* IMG_1142.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 6B95F5F128CA80390003FE2F /* IMG_1142.JPG */; };
+		6B95F5F528CA80390003FE2F /* IMG_1141.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 6B95F5F228CA80390003FE2F /* IMG_1141.JPG */; };
+		6B95F5F728CA845B0003FE2F /* Item_Primogem.webp in Resources */ = {isa = PBXBuildFile; fileRef = 6B95F5F628CA845B0003FE2F /* Item_Primogem.webp */; };
+		6B95F5F828CA84670003FE2F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6B95F5D428C5419E0003FE2F /* Main.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6B44537D28CA8948005C0BAA /* pp,840x830-pad,1000x1000,f8f8f8.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "pp,840x830-pad,1000x1000,f8f8f8.jpeg"; sourceTree = "<group>"; };
 		6B95F5CB28C5419E0003FE2F /* AnthonyChen-Lab1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "AnthonyChen-Lab1.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6B95F5CE28C5419E0003FE2F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6B95F5D028C5419E0003FE2F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -30,10 +35,13 @@
 		6B95F5DA28C541A00003FE2F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6B95F5DC28C541A00003FE2F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6B95F5E228C6794C0003FE2F /* HD-wallpaper-black-stylish-background-green-neon-lines-green-light-effects-abstract-black-background.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "HD-wallpaper-black-stylish-background-green-neon-lines-green-light-effects-abstract-black-background.jpeg"; sourceTree = "<group>"; };
-		6B95F5E628C67A530003FE2F /* grocery-pic-ubb.webp */ = {isa = PBXFileReference; lastKnownFileType = file; name = "grocery-pic-ubb.webp"; path = "../../grocery-pic-ubb.webp"; sourceTree = "<group>"; };
 		6B95F5EA28C67B700003FE2F /* top-view-simple-bag-with-fresh-groceries-food-zero-waste-eco-shopping-concept_63762-1665.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "top-view-simple-bag-with-fresh-groceries-food-zero-waste-eco-shopping-concept_63762-1665.jpeg"; sourceTree = "<group>"; };
 		6B95F5EC28C680150003FE2F /* 1079784.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1079784.png; sourceTree = "<group>"; };
 		6B95F5EE28C92B8E0003FE2F /* 4535983.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 4535983.png; sourceTree = "<group>"; };
+		6B95F5F028CA80390003FE2F /* IMG_1143.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_1143.JPG; sourceTree = "<group>"; };
+		6B95F5F128CA80390003FE2F /* IMG_1142.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_1142.JPG; sourceTree = "<group>"; };
+		6B95F5F228CA80390003FE2F /* IMG_1141.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_1141.JPG; sourceTree = "<group>"; };
+		6B95F5F628CA845B0003FE2F /* Item_Primogem.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = Item_Primogem.webp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,10 +78,14 @@
 				6B95F5D028C5419E0003FE2F /* SceneDelegate.swift */,
 				6B95F5D228C5419E0003FE2F /* ViewController.swift */,
 				6B95F5D428C5419E0003FE2F /* Main.storyboard */,
+				6B44537D28CA8948005C0BAA /* pp,840x830-pad,1000x1000,f8f8f8.jpeg */,
+				6B95F5F628CA845B0003FE2F /* Item_Primogem.webp */,
+				6B95F5F228CA80390003FE2F /* IMG_1141.JPG */,
+				6B95F5F128CA80390003FE2F /* IMG_1142.JPG */,
+				6B95F5F028CA80390003FE2F /* IMG_1143.JPG */,
 				6B95F5EE28C92B8E0003FE2F /* 4535983.png */,
 				6B95F5EC28C680150003FE2F /* 1079784.png */,
 				6B95F5EA28C67B700003FE2F /* top-view-simple-bag-with-fresh-groceries-food-zero-waste-eco-shopping-concept_63762-1665.jpeg */,
-				6B95F5E628C67A530003FE2F /* grocery-pic-ubb.webp */,
 				6B95F5E228C6794C0003FE2F /* HD-wallpaper-black-stylish-background-green-neon-lines-green-light-effects-abstract-black-background.jpeg */,
 				6B95F5D728C541A00003FE2F /* Assets.xcassets */,
 				6B95F5D928C541A00003FE2F /* LaunchScreen.storyboard */,
@@ -140,14 +152,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6B95F5F728CA845B0003FE2F /* Item_Primogem.webp in Resources */,
+				6B95F5F328CA80390003FE2F /* IMG_1143.JPG in Resources */,
 				6B95F5DB28C541A00003FE2F /* LaunchScreen.storyboard in Resources */,
 				6B95F5E328C6794C0003FE2F /* HD-wallpaper-black-stylish-background-green-neon-lines-green-light-effects-abstract-black-background.jpeg in Resources */,
+				6B95F5F428CA80390003FE2F /* IMG_1142.JPG in Resources */,
+				6B44537E28CA8948005C0BAA /* pp,840x830-pad,1000x1000,f8f8f8.jpeg in Resources */,
+				6B95F5F828CA84670003FE2F /* Main.storyboard in Resources */,
 				6B95F5ED28C680150003FE2F /* 1079784.png in Resources */,
+				6B95F5F528CA80390003FE2F /* IMG_1141.JPG in Resources */,
 				6B95F5EF28C92B8E0003FE2F /* 4535983.png in Resources */,
 				6B95F5D828C541A00003FE2F /* Assets.xcassets in Resources */,
-				6B95F5E728C67A530003FE2F /* grocery-pic-ubb.webp in Resources */,
 				6B95F5EB28C67B700003FE2F /* top-view-simple-bag-with-fresh-groceries-food-zero-waste-eco-shopping-concept_63762-1665.jpeg in Resources */,
-				6B95F5D628C5419E0003FE2F /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -310,6 +326,7 @@
 				DEVELOPMENT_TEAM = GT89928NCS;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "AnthonyChen-Lab1/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "Genshin Calculator";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -338,6 +355,7 @@
 				DEVELOPMENT_TEAM = GT89928NCS;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "AnthonyChen-Lab1/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "Genshin Calculator";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
